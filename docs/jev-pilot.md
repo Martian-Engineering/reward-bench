@@ -25,3 +25,6 @@ shows how often a decision survives swapping A and B. The pilot does not
 reproduce RewardBench's full-set weighted leaderboard score. The benchmark's
 preferred answer reflects helpfulness, instruction following, factuality,
 reasoning, or safety depending on its subset, not literary style alone.
+
+The [40-example Jev 1.13.0 pilot](../benchmarks/jev-pilot-seed100-40/README.md)
+includes aggregate results and per-example JSONL.
